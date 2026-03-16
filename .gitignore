@@ -1,0 +1,28 @@
+# --- Entornos Virtuales y Dependencias ---
+node_modules/
+venv/
+.env
+bin/
+
+# --- Archivos del Sistema Operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Configuración de Editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- Logs y Temporales ---
+*.log
+npm-debug.log*
+dist/
+build/
+
+# --- Arhcivos grandes ----
+*.csv
+*.pkl
+*.pickle
+*.json
+*.xlsx
+*.sqlite3
