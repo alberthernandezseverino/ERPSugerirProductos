@@ -1,4 +1,5 @@
-ERPSugerirProductos 🚀
+*ERPSugerirProductos*🚀
+
 Módulo inteligente de recomendación de productos diseñado para integrarse con sistemas ERP (Siesa Enterprise / SAP). Este sistema analiza el histórico de ventas para sugerir artículos complementarios, optimizando el cross-selling y mejorando la experiencia de compra.
 
 📋 Descripción del Proyecto
